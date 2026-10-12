@@ -1,0 +1,50 @@
+body {
+    background-color: #E6D6FF;
+    color: black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    background-color: #4B0082;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: #4B0082;
+    text-align: center;
+}
+
+h3 {
+    background-color: #D8B4FE;
+    color: #2E004F;
+    text-align: center;
+}
+
+h4 {
+    color: #4B0082;
+    text-align: center;
+}
+
+h5 {
+    color: #2E004F;
+    text-align: center;
+}
+
+p {
+    color: black;
+    text-align: center;
+}
+
+a {
+    background-color: #4B0082;
+    color: white;
+    text-decoration: none;
+}
+
+hr {
+    color: #4B0082;
+}
+
+
